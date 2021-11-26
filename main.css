@@ -2,7 +2,7 @@ footer {
     clear: both;
     text-align: left !;
     color: #FFF;
-    background-image: url("/img/footer-doaibu.jpg");
+    background-image: url("./img/footer-doaibu.jpg");
     background-repeat: no-repeat;
     padding: 10px;
     position: absolute;
